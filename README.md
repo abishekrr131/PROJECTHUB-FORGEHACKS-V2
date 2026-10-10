@@ -14,10 +14,16 @@ ProjectHub is a comprehensive academic project lifecycle management platform des
 
 ---
 
-### 🌐 GitHub Repository
+### 🌐 GitHub Repository & Live Demo
 - **📦 GitHub Repository**: [https://github.com/abishekrr131/PROJECTHUB-FORGEHACKS-V2](https://github.com/abishekrr131/PROJECTHUB-FORGEHACKS-V2)
+- **🚀 Live Dashboard**: [https://student-project-repository-platform.vercel.app/dashboard](https://student-project-repository-platform.vercel.app/dashboard)
 
 </div>
+
+---
+
+## 🚀 Live Demo
+[Open ProjectHub Dashboard](https://student-project-repository-platform.vercel.app/dashboard)
 
 ---
 
